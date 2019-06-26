@@ -1,8 +1,6 @@
 # vista
 
 A new Flutter application.
-## New Images
-<img scr="Screenshot 2019-06-26 at 21.01.02.png">
 
 ## Getting Started
 
