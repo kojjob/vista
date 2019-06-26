@@ -1,7 +1,7 @@
 # vista
 
 A new Flutter application.
-[](Screenshot 2019-06-26 at 21.01.02.png)
+<img scr="Screenshot 2019-06-26 at 21.01.02.png"
 
 ## Getting Started
 
